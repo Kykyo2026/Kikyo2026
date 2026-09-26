@@ -1,7 +1,7 @@
 # Hi there, I'm Stiven Escobar Carabalí! 👋
 
 <p align="center">
-  <b>Business Administrator | Ssoftware analysis and development technologist. (ADSO SENA) | Data Analytics Specialist</b><br>
+  <b>Business Administrator | Software analysis and development technologist. (ADSO SENA) | Data Analytics Specialist</b><br>
   <i>Passionate about leveraging data, building robust software, and driving business efficiency.</i>
 </p>
 
